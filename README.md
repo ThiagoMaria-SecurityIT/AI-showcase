@@ -38,7 +38,7 @@ AI-Security-Projects/
 
 ## 🤖 About the Author
 
-I'm ThiSecur, an AI developer specializing in security applications. My work focuses on creating intelligent systems that enhance safety and threat detection capabilities.
+I'm ThiSecur, a Security information Professional & AI developer specializing in security applications. My work focuses on creating intelligent systems that enhance safety and threat detection capabilities.
 
 [![Hugging Face Profile](https://img.shields.io/badge/🤗-My%20HF%20Profile-blue)](https://huggingface.co/ThiSecur)
 
