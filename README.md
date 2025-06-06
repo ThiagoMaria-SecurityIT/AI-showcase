@@ -66,19 +66,41 @@ This collection showcases cutting-edge AI applications for security professional
 "Generate clean desk policy checklist"
 ```
 
-**Development Timeline:**
-- Q4 2024: Enhanced assistant workflows
-- Q1 2025: API release
-- Q1 2026: Mobile integration
+---
+
+### 4. Multi-Tool AI Assistant - 🚀 Live
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/ai-assistant)
+
+**Core Capabilities:**
+- Time zone conversion engine
+- Real-time weather lookups
+- Unit conversion system
+- Intelligent web search
+- Dynamic image generation
+- Python code execution
+
+**Example Use Cases:**
+```python
+"What time is 3pm EST in Tokyo?"
+"Show weather in São Paulo"
+"Convert 50 miles to kilometers"
+"Generate image of secure server room"
+```
+
+**Technical Highlights:**
+- Qwen2.5-Coder-32B model backbone
+- Multi-step reasoning architecture
+- Tool chaining capabilities
+- Hugging Face optimized deployment
 
 ---
 
 ## 🛠️ Getting Started
 
-1. For live demos (Projects 2 & 3):
-   - Click the demo badge above
+1. For live demos:
+   - Click the demo badges above
    - Allow 20-30 seconds for Hugging Face to load
-   - Interact with the interface
+   - Interact with the interfaces
 
 2. For private projects:
    - Check back for Q3 2025 release
@@ -88,7 +110,6 @@ This collection showcases cutting-edge AI applications for security professional
 ```
 AI-Security-Projects/
 └── README.md          # Project documentation
-
 ```
 
 ## 🤝 Contribution & Feedback
