@@ -2,6 +2,9 @@
 
 A Python-based tool for automated image and video analysis using advanced object detection. Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
 
+> [!IMPORTANT]     
+> You need a pre-trained model in the same folder of the project to run this code.
+
 ### Image 1: Image generated with AI - ChatGPT.  
 * A simple uploaded image to the app and all objects are detected.
 * Since it is trained with COCO128 images and is designed to forensic, it may detect objects like the example "clock", even if it is not a clock in the wall.  
