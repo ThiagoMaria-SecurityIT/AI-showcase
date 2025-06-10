@@ -154,7 +154,8 @@ A Python-based tool for automated image and video analysis using advanced object
 ## 📂 Repository Structure
 ```
 AI-Security-Projects/
-└── README.md          # Project documentation
+├── README.md                  # Project documentation
+└── security-image-analyzer    # Has 2 images, its a simple AI image detector made with python
 ```
 
 ## 🤝 Contribution & Feedback
