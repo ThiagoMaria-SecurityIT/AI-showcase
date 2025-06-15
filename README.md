@@ -10,15 +10,14 @@ This collection showcases some of my AI applications for security information/cy
 A. [🔒 Advanced Threat Vision Analyzer](#1-advanced-threat-vision-analyzer----private-development)   
 B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in-progress)  
 C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
-D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)  
+D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant----live)  
 E. [🕵️ Security Image & Video Analyzer ](5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
-F. [🐉 Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
-G. [😎 Person and Object Detection](7-person-and-object-detection----) 
+F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
+G. [📚 Person and Object Detection](7-person-and-object-detection----) 
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
 
-(#4-multi-tool-ai-assistant---live) 
 ---
 
 ## 🌟 Featured Projects
@@ -69,7 +68,7 @@ Interested in the full capabilities? Contact me for details.
 
 ---
  
-### 4. Multi-Tool AI Assistant - 🔧 Live 
+### 4. Multi-Tool AI Assistant - 🛠️ Live 
 A Template from Hugging Face Agent Course  
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/First_agent_template)
 
@@ -98,7 +97,9 @@ A Template from Hugging Face Agent Course
 ---  
 
 ### 5. Security Image & Video Analyzer - 🕵️ Python + TTK    
+
 [![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)  
+
 A Python-based tool for automated image and video analysis using advanced object detection.  
 Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
 > [!IMPORTANT]     
@@ -107,12 +108,30 @@ Designed for security professionals to enhance incident investigation, forensic 
 ---  
 
 ### 6. Chinese Website Translator - Chrome Extension - 🐉
-chrome_extension_chinese_translator_web
----  
+[![Local Project](https://img.shields.io/badge/Get_The_Code_Here-🐉Python-red)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/blob/main/chrome_extension_chinese_translator_web/README.md)  
 
-### 7. Person and Object Detection  - 🔍
-- Showcase of a Yollow11 model I trained with COCO128 images to detect objects in images.   
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)
+A powerful Chrome AI API browser extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.  
+
+ **Features:**  
+ **🌟 Core Functionality**  
+- **Dual Translation APIs**: Uses Chrome's built-in **AI** translator with Google Translate fallback  
+- **Full Page Translation**: Instantly translate entire Chinese web pages to English  
+- **Hover Translation**: Real-time translation tooltips when hovering over Chinese text  
+- **Language Detection**: Automatically detects simplified vs traditional Chinese
+  
+---
+
+### **7. Person & Object Detection AI** 📚  
+[![Live Demo](https://img.shields.io/badge/🤗-Try_It_Live-success)](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)  
+
+**What it does:**  
+- **Smart Detection**: Identifies people, animals, and everyday objects in images.  
+- **Visual Highlights**: 🟨 Draws precise bounding boxes 🟩 around detected targets 🟥—so you *see* exactly what the AI found.  
+- **Powered by YOLOv11**: Trained on COCO128 for reliable, real-world performance.  
+
+**Perfect for**: Security checks, wildlife monitoring, retail inventory, or just exploring AI vision!  
+
+🚀 **Try the demo now—upload any image and watch the AI in action!**  
 
 ---
 
