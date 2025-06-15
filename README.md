@@ -8,7 +8,7 @@ This collection is a selection of AI-driven solutions I developed for cybersecur
 
 These projects demonstrate the integration of artificial intelligence with cybersecurity, offering capabilities such as real-time threat detection and advanced analytical tools to strengthen security infrastructure.
 
-This portfolio showcases my work in developing AI-powered tools.
+This portfolio demonstrates my proven ability and expertise to deliver AI solutions—from design and development to practical real-world implementation.
 
 >[!TIP]  
 >**Live Demos Available**  
