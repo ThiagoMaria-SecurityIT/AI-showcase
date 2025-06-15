@@ -4,18 +4,22 @@
 ### Welcome to my AI Security Projects repository!   
 This collection showcases some of my AI applications for security information/cybersecurity, featuring computer vision solutions and intelligent threat management systems.
 
-## 📋 Index
+## 📋 Index 🕵️
 
 1. [🌟 Featured Projects](#-featured-projects)  
-2. [🕵️ Security Image Analyzer](#2-ai-compliance-visual-inspector----in-progress)  
-3. [🔒 Advanced Threat Vision Analyzer](#3-security-ai-command-center-beta-)    
-4. [📋 AI Compliance Visual Inspector](#4-multi-tool-ai-assistant---live)  
-5. [🤖 Security AI Command Center](#5-security-image-analyzer---%EF%B8%8F-private-development)   
-6. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)   
-7. [🚀 Getting Started](#%EF%B8%8F-getting-started)    
+A. [🔒 Advanced Threat Vision Analyzer](#3-security-ai-command-center-beta-)  
+B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in-progress)
+C.   
+D. [🤖 Security AI Command Center](#5-security-image-analyzer---%EF%B8%8F-private-development)   
+E. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)  
+F. [🕵️ Security Image Analyzer](#5-security-image-analyzer---%EF%B8%8F)  
+G. [🐉Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
+H. [Image Detection Demo] Showcase of Yollow11 I trained with COCO128 to detect images  
+7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
 
+(#4-multi-tool-ai-assistant---live) 
 ---
 
 ## 🌟 Featured Projects
@@ -33,57 +37,40 @@ This collection showcases some of my AI applications for security information/cy
 
 ---
 
-### 2. AI Compliance Visual Inspector - 🚧 In Progress
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Prototype-blue)](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)
+### 2. AI Compliance Visual Inspector - 📋🚧 In Progress
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Prototype-blue)](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)   
+**A Vision AI Agent live at security cameras to:**  
 
-**Current Capabilities:**
 - Policy violation detection:
   - Unattended devices (phones, laptops)
-  - Clean-desk violations (sensitive documents)
-- Confidence threshold adjustment (1-100%)
-
-**Usage Instructions:**
-1. Upload office environment images
-2. Set confidence threshold to 1 for maximum sensitivity
-3. Review JSON output with detected objects
-
-**Roadmap:**
-- Visual violation highlighting (Q4 2024)
-- Batch processing
-- PDF report generation
-
-*Professional showcase of AI-assisted security compliance workflows*
-
+  - Clean-desk violations
+   - Employees/Visitors without badges
+   - Paper, pen, pencil, unathourized devices at production
+   - Open or damaged doors/windows
+   - Any other clean desk policy your company have 
+- Expected Release: Q4 2025
+  
 ---
 
-### 3. Security AI Command Center (Beta) 🔧
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/security-ai-agent)
+### 3. Security AI Agent Command Center (Beta) 🛡️  
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/security-ai-agent)  
+This Security AI Agent Command Center, is a demo of an AI-powered security system that detects objects (like people, bags, vehicles, etc.) in real-time using computer vision.  
+The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the full version is a more advanced system trained on security-specific data for real-world threat detection.  
 
-**Dual-Panel Enterprise Solution**
+Key Features:
+- Real-Time Object Detection: Identifies objects in images/video (e.g., "person," "backpack").  
+- Security-Focused: The full version is optimized for threats (e.g., intrusions, unattended items).  
+- User-Friendly Interface: Simple upload/click-to-run design.  
 
-| Admin Console (Left) | Security Assistant (Right) |
-|----------------------|---------------------------|
-| • User access control | • Threat analysis queries |
-| • System diagnostics  | • Security concept explanations |
-| • Alert configuration | • Incident response guidance |
-| • Threshold settings  | • Policy compliance checks |
+**Current Limitations (for the demo):**  
+- Training Data: This demo runs on a general-purpose dataset (COCO128), so it may not catch security-specific threats as accurately as our full version (trained on millions of security-optimized images).  
+- Video Support: The live video feature isn’t enabled at the Hugging Face demo —but check out my other AI models for real-time object detection in videos and security cameras!  
 
-**Technical Architecture:**
-- Hybrid CNN-Transformer model
-- <500ms detection latency
-- Continuous learning framework
-- Multi-source data fusion
-
-**Try These Queries:**
-```bash
-"Analyze this intrusion attempt"
-"Explain phishing detection methods"
-"Generate clean desk policy checklist"
-```
+Interested in the full capabilities? Contact me for details.  
 
 ---
  
-### 4. Multi-Tool AI Assistant - Live  
+### 4. Multi-Tool AI Assistant - 🔧 Live 
 A Template from Hugging Face Agent Course  
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/First_agent_template)
 
@@ -108,37 +95,28 @@ A Template from Hugging Face Agent Course
 - Qwen2.5-Coder-32B model backbone
 - Multi-step reasoning architecture
 - Tool chaining capabilities
-- Hugging Face optimized deployment
+- Hugging Face optimized deployment  
 ---  
-### 5. Security Image Analyzer - 🕵️ Private Development  
-A Python-based tool for automated image and video analysis using advanced object detection. Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.    
-[![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)
 
+### 5. Security Image Analyzer - 🕵️ Python + TTK    
+[![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)  
+A Python-based tool for automated image and video analysis using advanced object detection.  
+Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
+> [!IMPORTANT]     
+> You need a pre-trained model in the same folder of the project to run this code.
 
-**Core Capabilities:**
-- Time zone conversion engine
-- Real-time weather lookups
-- Unit conversion system
-- Intelligent web search
-- Dynamic image generation
-- Python code execution
+---  
 
-**Example Use Cases:**
-```python
-"What time is 3pm EST in Tokyo?"
-"Show weather in São Paulo"
-"Convert 50 miles to kilometers"
-"Generate image of secure server room"
-```
+### 6. Chinese Website Translator - Chrome Extension - 🐉
+chrome_extension_chinese_translator_web
+---  
 
-**Technical Highlights:**
-- Qwen2.5-Coder-32B model backbone
-- Multi-step reasoning architecture
-- Tool chaining capabilities
-- Hugging Face optimized deployment
-
+### 7. Detect Objects in Images - 🔍
+- Showcase of a Yollow11 model I trained with COCO128 images to detect objects in images.   
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)
 
 ---
+
 
 ## 🛠️ Getting Started
 
