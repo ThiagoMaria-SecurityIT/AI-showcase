@@ -12,7 +12,7 @@ A. [🔒 Advanced Threat Video Analyzer](#1-advanced-threat-video-analyzer----wi
 B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----lightweight-object-detection)  
 C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
 D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---%EF%B8%8F-live)  
-E. [🕵️ Security Image & Video Analyzer ](5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
+E. [🕵️ Security Image & Video Analyzer ](#5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
 G. [📚 Person and Object Detection](7-person-and-object-detection----) 
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
