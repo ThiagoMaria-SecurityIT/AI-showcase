@@ -12,8 +12,8 @@ B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in
 C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
 D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)  
 E. [🕵️ Security Image & Video Analyzer ](5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
-F. [🐉Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
-G. [Image Detection Demo] Showcase of Yollow11 I trained with COCO128 to detect images  
+F. [🐉 Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
+G. [😎 Person and Object Detection](7-person-and-object-detection----) 
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
@@ -110,7 +110,7 @@ Designed for security professionals to enhance incident investigation, forensic 
 chrome_extension_chinese_translator_web
 ---  
 
-### 7. Detect Objects in Images - 🔍
+### 7. Person and Object Detection  - 🔍
 - Showcase of a Yollow11 model I trained with COCO128 images to detect objects in images.   
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)
 
