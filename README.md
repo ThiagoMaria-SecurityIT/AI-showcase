@@ -7,14 +7,13 @@ This collection showcases some of my AI applications for security information/cy
 ## 📋 Index 🕵️
 
 1. [🌟 Featured Projects](#-featured-projects)  
-A. [🔒 Advanced Threat Vision Analyzer](#3-security-ai-command-center-beta-)  
-B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in-progress)
-C.   
-D. [🤖 Security AI Command Center](#5-security-image-analyzer---%EF%B8%8F-private-development)   
-E. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)  
-F. [🕵️ Security Image Analyzer](#5-security-image-analyzer---%EF%B8%8F)  
-G. [🐉Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
-H. [Image Detection Demo] Showcase of Yollow11 I trained with COCO128 to detect images  
+A. [🔒 Advanced Threat Vision Analyzer](#1-advanced-threat-vision-analyzer----private-development)   
+B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in-progress)  
+C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
+D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---live)  
+E. [🕵️ Security Image & Video Analyzer ](5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
+F. [🐉Chinese Website Translator - Chrome Extension](chrome_extension_chinese_translator_web)  
+G. [Image Detection Demo] Showcase of Yollow11 I trained with COCO128 to detect images  
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
@@ -98,7 +97,7 @@ A Template from Hugging Face Agent Course
 - Hugging Face optimized deployment  
 ---  
 
-### 5. Security Image Analyzer - 🕵️ Python + TTK    
+### 5. Security Image & Video Analyzer - 🕵️ Python + TTK    
 [![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)  
 A Python-based tool for automated image and video analysis using advanced object detection.  
 Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
