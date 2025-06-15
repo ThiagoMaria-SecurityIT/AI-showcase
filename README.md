@@ -15,7 +15,7 @@ This portfolio demonstrates my proven ability and expertise to deliver AI soluti
 >Several projects are hosted online—click the badge below to explore them:  
 >[![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-View_Projects-blue)](https://huggingface.co/ThiSecur)  
 >  
->**Note for "Security Image & Video Analyzer"**  
+>**Note for project "E. 🕵️ Security Image & Video Analyzer"**  
 >This Python-based solution requires a compatible AI model. Download it here:  
 >[Download Model](https://huggingface.co/spaces/ThiSecur/imagedtection-demo/blob/main/model.pt)  
 >After downloading, rename the file to `yolo11x.pt` for seamless integration.  
