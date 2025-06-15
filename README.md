@@ -7,10 +7,10 @@ This collection showcases some of my AI applications for security information/cy
 ## 📋 Index 🕵️
 
 1. [🌟 Featured Projects](#-featured-projects)  
-A. [🔒 Advanced Threat Vision Analyzer](#1-advanced-threat-vision-analyzer----private-development)   
-B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----in-progress)  
+A. [🔒 Advanced Threat Video Analyzer](#1-advanced-threat-video-analyzer----will-be-released-soon---today-15062025)   
+B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----lightweight-object-detection)  
 C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
-D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant----live)  
+D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---%EF%B8%8F-live)  
 E. [🕵️ Security Image & Video Analyzer ](5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
 G. [📚 Person and Object Detection](7-person-and-object-detection----) 
@@ -22,12 +22,13 @@ G. [📚 Person and Object Detection](7-person-and-object-detection----)
 
 ## 🌟 Featured Projects
 
-### 1. Advanced Threat Vision Analyzer - 🔒 Private Development
+### 1. Advanced Threat Video Analyzer - 🔒 Will be released soon - Today: 15/06/2025
 [![Status](https://img.shields.io/badge/Status-Private_Development-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
 
 > 🚧 Expected Release: Q4 2025  
 > Next-generation security vision system featuring:
 > - Real-time anomaly detection
+> - Object, animals and person detection
 > - Behavioral pattern analysis
 > - Multi-camera threat correlation
 
@@ -35,9 +36,9 @@ G. [📚 Person and Object Detection](7-person-and-object-detection----)
 
 ---
 
-### 2. AI Compliance Visual Inspector - 📋🚧 In Progress
+### 2. AI Compliance Visual Inspector - 📋 Lightweight object detection
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Prototype-blue)](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)   
-**A Vision AI Agent live at security cameras to:**  
+**A Vision AI Agent live for security cameras to:**  
 
 - Policy violation detection:
   - Unattended devices (phones, laptops)
