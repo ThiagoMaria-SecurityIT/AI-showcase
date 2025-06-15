@@ -22,14 +22,14 @@ This portfolio showcases my work in developing AI-powered tools.
 
 ## 📋 Index 🕵️
 
-1. [🌟 Featured Projects](#-featured-projects)  
+1. [🌟 Featured Projects](#1--featured-projects)  
 A. [🔒 Advanced Threat Video Analyzer](#a-advanced-threat-video-analyzer----will-be-released-soon---updated-15062025)   
 B. [📋 AI Compliance Visual Inspector](#b-ai-compliance-visual-inspector----lightweight-object-detection)  
 C. [🤖 Security AI Command Center](#c-security-ai-agent-command-center-beta-%EF%B8%8F)   
 D. [🛠️ Multi-Tool AI Assistant](#d-multi-tool-ai-assistant---%EF%B8%8F-live)  
 E. [🕵️ Security Image & Video Analyzer ](#e-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
-G. [📚 Person and Object Detection](g-person-and-object-detection----) 
+G. [📚 Person and Object Detection](#g-person--object-detection-ai-) 
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
