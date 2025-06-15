@@ -2,28 +2,43 @@
 #### Updated 06/15/2025 📅   
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/ThiagoMaria-SecurityIT)   
 
-### Welcome to my AI Security Projects repository!   
-This collection showcases some of my AI applications for security information/cybersecurity, featuring computer vision solutions and intelligent threat management systems.
+### Welcome to my collection of AI-powered security solutions!  
+
+This collection is a selection of AI-driven solutions I developed for cybersecurity and security intelligence applications, among other use cases. It features AI agents, API integrations, and customizable models designed for seamless compatibility with modern threat management systems.
+
+These projects demonstrate the integration of artificial intelligence with cybersecurity, offering capabilities such as real-time threat detection and advanced analytical tools to strengthen security infrastructure.
+
+This portfolio showcases my work in developing AI-powered tools.
+
+>[!TIP]  
+>**Live Demos Available**  
+>Several projects are hosted online—click the badge below to explore them:  
+>[![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-View_Projects-blue)](https://huggingface.co/ThiSecur)  
+>  
+>**Note for "Security Image & Video Analyzer"**  
+>This Python-based solution requires a compatible AI model. Download it here:  
+>[Download Model](https://huggingface.co/spaces/ThiSecur/imagedtection-demo/blob/main/model.pt)  
+>After downloading, rename the file to `yolo11x.pt` for seamless integration.  
 
 ## 📋 Index 🕵️
 
 1. [🌟 Featured Projects](#-featured-projects)  
-A. [🔒 Advanced Threat Video Analyzer](#1-advanced-threat-video-analyzer----will-be-released-soon---today-15062025)   
-B. [📋 AI Compliance Visual Inspector](#2-ai-compliance-visual-inspector----lightweight-object-detection)  
-C. [🤖 Security AI Command Center](#3-security-ai-agent-command-center-beta-%EF%B8%8F)   
-D. [🛠️ Multi-Tool AI Assistant](#4-multi-tool-ai-assistant---%EF%B8%8F-live)  
-E. [🕵️ Security Image & Video Analyzer ](#5-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
+A. [🔒 Advanced Threat Video Analyzer](#a-advanced-threat-video-analyzer----will-be-released-soon---updated-15062025)   
+B. [📋 AI Compliance Visual Inspector](#b-ai-compliance-visual-inspector----lightweight-object-detection)  
+C. [🤖 Security AI Command Center](#c-security-ai-agent-command-center-beta-%EF%B8%8F)   
+D. [🛠️ Multi-Tool AI Assistant](#d-multi-tool-ai-assistant---%EF%B8%8F-live)  
+E. [🕵️ Security Image & Video Analyzer ](#e-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
-G. [📚 Person and Object Detection](7-person-and-object-detection----) 
+G. [📚 Person and Object Detection](g-person-and-object-detection----) 
 7. [🚀 Getting Started](#%EF%B8%8F-getting-started)     
 8. [📂 Repository Structure](#-repository-structure)  
 9. [🤝 Contribution & Feedback](#-contribution--feedback)  
 
 ---
 
-## 🌟 Featured Projects
+## 1. 🌟 Featured Projects
 
-### 1. Advanced Threat Video Analyzer - 🔒 Will be released soon - Today: 15/06/2025
+### A. Advanced Threat Video Analyzer - 🔒 Will be released soon - Updated: 15/06/2025
 [![Status](https://img.shields.io/badge/Status-Private_Development-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
 
 > 🚧 Expected Release: Q4 2025  
@@ -37,7 +52,7 @@ G. [📚 Person and Object Detection](7-person-and-object-detection----)
 
 ---
 
-### 2. AI Compliance Visual Inspector - 📋 Lightweight object detection
+### B. AI Compliance Visual Inspector - 📋 Lightweight object detection
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Prototype-blue)](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)   
 **A Vision AI Agent live for security cameras to:**  
 
@@ -52,7 +67,7 @@ G. [📚 Person and Object Detection](7-person-and-object-detection----)
   
 ---
 
-### 3. Security AI Agent Command Center (Beta) 🛡️  
+### C. Security AI Agent Command Center (Beta) 🛡️  
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/security-ai-agent)  
 This Security AI Agent Command Center, is a demo of an AI-powered security system that detects objects (like people, bags, vehicles, etc.) in real-time using computer vision.  
 The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the full version is a more advanced system trained on security-specific data for real-world threat detection.  
@@ -70,7 +85,7 @@ Interested in the full capabilities? Contact me for details.
 
 ---
  
-### 4. Multi-Tool AI Assistant - 🛠️ Live 
+### D. Multi-Tool AI Assistant - 🛠️ Live 
 A Template from Hugging Face Agent Course  
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/First_agent_template)
 
@@ -98,7 +113,7 @@ A Template from Hugging Face Agent Course
 - Hugging Face optimized deployment  
 ---  
 
-### 5. Security Image & Video Analyzer - 🕵️ Python + TTK    
+### E. Security Image & Video Analyzer - 🕵️ Python + TTK    
 
 [![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)  
 
@@ -109,7 +124,7 @@ Designed for security professionals to enhance incident investigation, forensic 
 
 ---  
 
-### 6. Chinese Website Translator - Chrome Extension - 🐉
+### F. Chinese Website Translator - Chrome Extension - 🐉
 [![Local Project](https://img.shields.io/badge/Get_The_Code_Here-🐉Python-red)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/blob/main/chrome_extension_chinese_translator_web/README.md)  
 
 A powerful Chrome AI API browser extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.  
@@ -123,7 +138,7 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
   
 ---
 
-### **7. Person & Object Detection AI** 📚  
+### **G. Person & Object Detection AI** 📚  
 [![Live Demo](https://img.shields.io/badge/🤗-Try_It_Live-success)](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)  
 
 **What it does:**  
@@ -152,8 +167,9 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
 ## 📂 Repository Structure
 ```
 AI-Security-Projects/
-├── README.md                  # Project documentation
-└── security-image-analyzer    # Has 2 images, its a simple AI image detector made with python
+├── README.md                                 # Project documentation
+├── security-image-analyzer                   # Has 2 images, its a simple AI image detector made with python
+└── chrome_extension_chinese_translator_web   # Chrome AI API browser extension
 ```
 
 ## 🤝 Contribution & Feedback
