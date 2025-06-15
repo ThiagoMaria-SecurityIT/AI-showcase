@@ -85,5 +85,9 @@ chrome_extension_translator/
 │   ├── icon16.png        # 16x16 icon
 │   ├── icon48.png        # 48x48 icon
 │   └── icon128.png       # 128x128 icon
+├── images/
+│   ├── iamge1.png
+│   ├── image2.png
+│   └── screen1.png
 └── README.md             # Documentation
 ```
