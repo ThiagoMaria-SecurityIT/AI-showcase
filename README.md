@@ -1,4 +1,5 @@
 # AI Security Projects Repository  
+#### Updated 06/15/2025 📅   
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/ThiagoMaria-SecurityIT)   
 
 ### Welcome to my AI Security Projects repository!   
