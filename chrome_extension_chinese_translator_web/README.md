@@ -1,7 +1,13 @@
 # Chinese Website Translator - Chrome Extension 
 
-## Overview
-A powerful Chrome extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.
+## Overview  
+- A powerful Chrome extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.  
+- Published at Chrome Web Store at June 21, 2025  
+- Link: https://chromewebstore.google.com/detail/chinese-website-translato/oaecicbfmchjhfgleciddmpdigcmdpgb  
+---
+![image](https://github.com/user-attachments/assets/53a9967f-793c-409e-86ea-fb8ad0b8d8e5)
+  
+
 
 ## Features
 
