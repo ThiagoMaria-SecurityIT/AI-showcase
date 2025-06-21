@@ -1,8 +1,9 @@
 # Chinese Website Translator - Chrome Extension 
 
 ## Overview  
-- A powerful Chrome extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.  
-- Published at Chrome Web Store at June 21, 2025  
+- A powerful Chrome extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.
+- Made with Manus AI Playbook 
+- Published at Chrome Web Store at June 17, 2025  
 - Link: https://chromewebstore.google.com/detail/chinese-website-translato/oaecicbfmchjhfgleciddmpdigcmdpgb  
 ---
 ![image](https://github.com/user-attachments/assets/53a9967f-793c-409e-86ea-fb8ad0b8d8e5)
@@ -97,3 +98,19 @@ chrome_extension_translator/
 │   └── screen1.png
 └── README.md             # Documentation
 ```
+## About the Author   
+
+**Thiago Maria - From Brazil to the World 🌎**  
+*Senior Security Information Professional | Passionate Programmer | AI Developer*
+
+With a professional background in security analysis and a deep passion for programming, I created this Chrome Extension to share some knowledge about AI, Google Web UI, and development practices. Most of my work here in my Github focuses on implementing security-first approaches in AI and developer tools while maintaining usability.
+
+Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
+[![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)
+
+ 
+## Ways to Contribute:   
+ Want to see more upgrades? Help me keep it updated!    
+ [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/ThiagoMaria-SecurityIT) 
