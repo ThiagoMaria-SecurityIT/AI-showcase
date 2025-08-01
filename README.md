@@ -39,7 +39,7 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
 ## 1. 🌟 Featured Projects
 
 ### A. Advanced Threat Video Analyzer - 🔒 Will be released soon - Updated: 15/06/2025
-[![Status](https://img.shields.io/badge/Status-Private_Development-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
+[![Status](https://img.shields.io/badge/Status-Under-Development-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
 
 > 🚧 Expected Release: Q4 2025  
 > Next-generation security vision system featuring:
@@ -160,7 +160,7 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
    - Allow 20-30 seconds for Hugging Face to load
    - Interact with the interfaces
 
-2. For private projects:
+2. For under development projects:
    - Check back for Q3 2025 release
    - Contact for collaboration opportunities
 
