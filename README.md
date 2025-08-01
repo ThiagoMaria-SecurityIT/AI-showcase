@@ -160,7 +160,7 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
    - Allow 20-30 seconds for Hugging Face to load
    - Interact with the interfaces
 
-2. For under development projects:
+2. For private under development projects:
    - Check back for Q3 2025 release
    - Contact for collaboration opportunities
 
