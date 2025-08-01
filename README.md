@@ -39,7 +39,7 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
 ## 1. 🌟 Featured Projects
 
 ### A. Advanced Threat Video Analyzer - 🔒 Will be released soon - Updated: 15/06/2025
-[![Status](https://img.shields.io/badge/Status-Under-Development-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
+[![Status](https://img.shields.io/badge/Status-PrivateDevelopment-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
 
 > 🚧 Expected Release: Q4 2025  
 > Next-generation security vision system featuring:
