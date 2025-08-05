@@ -25,7 +25,7 @@ This portfolio demonstrates my proven ability and expertise to deliver AI soluti
 1. [🌟 Featured Projects](#1--featured-projects)  
 A. [🔒 Advanced Threat Video Analyzer](#a-advanced-threat-video-analyzer----will-be-released-soon---updated-15062025)   
 B. [📋 AI Compliance Visual Inspector](#b-ai-compliance-visual-inspector----lightweight-object-detection)  
-C. [🤖 Security AI Command Center](#c-security-ai-agent-command-center-beta-%EF%B8%8F)   
+C. [🤖 Security AI Command Center](#c-security-ai-agent-%EF%B8%8F)   
 D. [🛠️ Multi-Tool AI Assistant](#d-multi-tool-ai-assistant---%EF%B8%8F-live)  
 E. [🕵️ Security Image & Video Analyzer ](#e-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
@@ -67,14 +67,18 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
   
 ---
 
-### C. Security AI Agent Command Center (Beta) 🛡️  
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/security-ai-agent)  
-This Security AI Agent Command Center, is a demo of an AI-powered security system that detects objects (like people, bags, vehicles, etc.) in real-time using computer vision.  
-The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the full version is a more advanced system trained on security-specific data for real-world threat detection.  
+### C. Security AI Agent 🛡️   
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/AI-Security-Agent)      
+Click to test online: [Click Here](https://huggingface.co/spaces/ThiSecur/AI-Security-Agent)      
+
+<img width="1542" height="685" alt="image" src="https://github.com/user-attachments/assets/5e8b3049-9fee-48ff-a18f-c66e28872848" />   
+
+An intelligent security dashboard that uses computer vision to automatically detect and log physical security incidents, with an AI-powered advisor to explain the risks based on ISO 27001 principles.  
+The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the final version could be a more advanced system trained on security-specific data for real-world threat detection.  
 
 Key Features:
-- Real-Time Object Detection: Identifies objects in images/video (e.g., "person," "backpack").  
-- Security-Focused: The full version is optimized for threats (e.g., intrusions, unattended items).  
+- Real-Time Object Detection: Identifies objects in images/video (e.g., "person," "laptop").  
+- Security-Focused: Optimized for Incident Log (e.g., intrusions, unattended items).  
 - User-Friendly Interface: Simple upload/click-to-run design.  
 
 **Current Limitations (for the demo):**  
