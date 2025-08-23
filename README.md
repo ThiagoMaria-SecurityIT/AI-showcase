@@ -70,8 +70,21 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
    - Employees/Visitors without badges
    - Paper, pen, pencil, unathourized devices at production
    - Open or damaged doors/windows
-   - Any other clean desk policy your company have 
-- Expected Release: Q4 2025
+   - Any other clean desk policy your company have
+     
+*This application adds that context by:*  
+
+- Framing the tool for security and compliance use cases (e.g., detecting unattended devices, clean-desk issues).
+
+- Providing a confidence threshold to help filter out uncertain results, which is critical for making informed decisions.
+
+**_The interpretation of the AI's output is left to the human user_**. For example, if the AI identifies a laptop, monitor, and keyboard on a desk, the user must decide if this scene violates a specific clean-desk policy. This tool acts as a powerful assistant to flag potential issues, not as an autonomous decision-maker.  
+
+>[!Important]  
+>- This tool is a prototype and demonstration. It is not a certified compliance auditing tool.  
+>- The AI can and will make mistakes—it might miss objects (false negatives) or misidentify (like the example image above that it detected a notebook as a "desktop computer") them (false positives).  
+>- Always have a human expert review and validate any findings before making any compliance or security-related decisions.
+>- Do not rely solely on this tool's output.  
   
 ---
 
