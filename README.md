@@ -54,6 +54,14 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
 
 ### B. AI Compliance Visual Inspector - 📋 Lightweight object detection
 [![Live Demo](https://img.shields.io/badge/🤗-Try_Prototype-blue)](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)   
+[Try Prototype - Click here](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)     
+
+
+<img width="1542" height="768" alt="image" src="https://github.com/user-attachments/assets/750c74f1-08ee-4c7a-addf-8ff2ff56d9bb" />
+
+
+
+
 **A Vision AI Agent live for security cameras to:**  
 
 - Policy violation detection:
