@@ -94,7 +94,7 @@ Click to test online: [Click Here](https://huggingface.co/spaces/ThiSecur/AI-Sec
 
 <img width="1542" height="685" alt="image" src="https://github.com/user-attachments/assets/5e8b3049-9fee-48ff-a18f-c66e28872848" />   
 
-An intelligent security dashboard that uses computer vision to automatically detect and log physical security incidents, with an AI-powered advisor to explain the risks based on ISO 27001 principles.  
+An intelligent security app that uses computer vision to automatically detect and log physical security incidents (the incident log is not implemented yet), with an AI-powered advisor(the advisor will be implemented) to explain the risks based on ISO 27001 principles.  
 The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the final version could be a more advanced system trained on security-specific data for real-world threat detection.  
 
 Key Features:
