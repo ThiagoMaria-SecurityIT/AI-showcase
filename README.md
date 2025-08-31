@@ -1,5 +1,5 @@
 # AI Security Projects Repository  
-#### Updated 06/15/2025 📅   
+#### Updated 08/31/2025 📅   
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/ThiagoMaria-SecurityIT)   
 
 ### Welcome to my collection of AI-powered security solutions!  
@@ -100,9 +100,7 @@ Updated: 31/08/2025
 ![](https://img.shields.io/badge/🤗-Under_Development-blue)    
 
 An AI Agent that decides wich tool to use to analyze and select cybersecurity tools/apps and report.   
-
 This project is under development and cybersecurity tools are beeing made with Python compatible with the agent.   
-
 The project is expected to be completed by the end of Q4  
 
 ---
@@ -141,7 +139,7 @@ A Template from Hugging Face Agent Course
 
 [![Security Image Analyzer](https://img.shields.io/badge/🔍_Security_Image_Analyzer-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2430)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer)  
 
-A Python-based tool for automated image and video analysis using advanced object detection.  
+A Desktop Python-based tool for automated image and video analysis using advanced object detection.  
 Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
 
 ![Image01](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/blob/main/security-image-analyzer/ttkimage1.png)  
@@ -155,6 +153,11 @@ Designed for security professionals to enhance incident investigation, forensic 
 [![Local Project](https://img.shields.io/badge/Get_The_Code_Here-🐉Python-red)](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/blob/main/chrome_extension_chinese_translator_web/README.md)  
 
 A powerful Chrome AI API browser extension that translates Chinese websites (both simplified and traditional) into English (US) with a stunning dark, futuristic interface design.  
+
+Download the browser extension [click here](https://chromewebstore.google.com/detail/chinese-website-translato/oaecicbfmchjhfgleciddmpdigcmdpgb)  
+
+<img width="817" height="673" alt="image" src="https://github.com/user-attachments/assets/f4bb3bd7-14dd-4adb-80da-0b2d7729aa99" />  
+
 
  **Features:**  
  **🌟 Core Functionality**  
@@ -187,8 +190,8 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
    - Allow 20-30 seconds for Hugging Face to load
    - Interact with the interfaces
 
-2. For private under development projects:
-   - Check back for Q3 2025 release
+2. For under development projects:
+   - Check back for Q4 2025 release
    - Contact for collaboration opportunities
 
 ## 📂 Repository Structure
@@ -196,6 +199,7 @@ A powerful Chrome AI API browser extension that translates Chinese websites (bot
 AI-Security-Projects/
 ├── README.md                                 # Project documentation
 ├── security-image-analyzer                   # Has 2 images, its a simple AI image detector made with python
+├── images                                    # Images of the projects
 └── chrome_extension_chinese_translator_web   # Chrome AI API browser extension
 ```
 
