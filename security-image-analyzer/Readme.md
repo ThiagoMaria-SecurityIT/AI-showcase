@@ -27,7 +27,7 @@ A Python-based tool for automated image and video analysis using advanced object
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/security-image-analyzer.git
+   git clone https://github.com/ThiagoMaria-SecurityIT/AI-showcase/tree/main/security-image-analyzer.git
    cd security-image-analyzer
    ```
 
