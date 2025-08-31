@@ -23,9 +23,9 @@ This portfolio demonstrates my proven ability and expertise to deliver AI soluti
 ## 📋 Index 🕵️
 
 1. [🌟 Featured Projects](#1--featured-projects)  
-A. [🔒 Advanced Threat Video Analyzer](#a-advanced-threat-video-analyzer----will-be-released-soon---updated-15062025)   
+A. [🔒 Advanced Threat Video Analyzer](#a-advanced-threat-video-analyzer----will-be-released-soon)   
 B. [📋 AI Compliance Visual Inspector](#b-ai-compliance-visual-inspector----lightweight-object-detection)  
-C. [🤖 Security AI Command Center](#c-security-ai-agent-%EF%B8%8F)   
+C. [🤖 Security AI Agent](#c-security-ai-agent-%EF%B8%8F)   
 D. [🛠️ Multi-Tool AI Assistant](#d-multi-tool-ai-assistant---%EF%B8%8F-live)  
 E. [🕵️ Security Image & Video Analyzer ](#e-security-image--video-analyzer---%EF%B8%8F-python--ttk)  
 F. [🐉 Chinese Website Translator - Chrome AI API Extension](chrome_extension_chinese_translator_web)  
@@ -36,19 +36,26 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
 
 ---
 
-## 1. 🌟 Featured Projects
+## 1. 🌟 Featured Projects  
 
-### A. Advanced Threat Video Analyzer - 🔒 Will be released soon - Updated: 15/06/2025
-[![Status](https://img.shields.io/badge/Status-PrivateDevelopment-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
 
-> 🚧 Expected Release: Q4 2025  
+### A. Advanced Threat Video Analyzer - 🔒 Will be released soon 
+Updated: 31/08/2025  
+
+[![Status](https://img.shields.io/badge/Status-Under_Development_Try_Beta-red)](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)
+
+<img width="1897" height="784" alt="image" src="https://github.com/user-attachments/assets/8968a37d-4f39-47db-89cd-e86f100cf409" />  
+
+
+ 🚧 Expected Release: Q4 2025 - Q1 2026 
 > Next-generation security vision system featuring:
-> - Real-time anomaly detection
-> - Object, animals and person detection
+> - Real-time Object detection
+> - Animals and person detection
 > - Behavioral pattern analysis
 > - Multi-camera threat correlation
 
-*Note: Repository currently contains placeholder documentation*
+
+*Note: Try beta version online [here](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)*
 
 ---
 
@@ -89,30 +96,22 @@ G. [📚 Person and Object Detection](#g-person--object-detection-ai-)
 ---
 
 ### C. Security AI Agent 🛡️   
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Beta-blue)](https://huggingface.co/spaces/ThiSecur/AI-Security-Agent)      
-Click to test online: [Click Here](https://huggingface.co/spaces/ThiSecur/AI-Security-Agent)      
 
-<img width="1542" height="685" alt="image" src="https://github.com/user-attachments/assets/5e8b3049-9fee-48ff-a18f-c66e28872848" />   
+![](https://img.shields.io/badge/🤗-Under_Development-blue)    
 
-An intelligent security app that uses computer vision to automatically detect and log physical security incidents (the incident log is not implemented yet), with an AI-powered advisor(the advisor will be implemented) to explain the risks based on ISO 27001 principles.  
-The live version on Hugging Face is a lightweight demo trained on COCO128 (a general-purpose dataset), while the final version could be a more advanced system trained on security-specific data for real-world threat detection.  
+An AI Agent that decides wich tool to use to analyze and select cybersecurity tools/apps and report.   
 
-Key Features:
-- Real-Time Object Detection: Identifies objects in images/video (e.g., "person," "laptop").  
-- Security-Focused: Optimized for Incident Log (e.g., intrusions, unattended items).  
-- User-Friendly Interface: Simple upload/click-to-run design.  
+This project is under development and cybersecurity tools are beeing made with Python compatible with the agent.   
 
-**Current Limitations (for the demo):**  
-- Training Data: This demo runs on a general-purpose dataset (COCO128), so it may not catch security-specific threats as accurately as our full version (trained on millions of security-optimized images).  
-- Video Support: The live video feature isn’t enabled at the Hugging Face demo —but check out my other AI models for real-time object detection in videos and security cameras!  
-
-Interested in the full capabilities? Contact me for details.  
+The project is expected to be completed by the end of Q4  
 
 ---
  
 ### D. Multi-Tool AI Assistant - 🛠️ Live 
 A Template from Hugging Face Agent Course  
-[![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/First_agent_template)
+[![Live Demo](https://img.shields.io/badge/🤗-Try_Now-success)](https://huggingface.co/spaces/ThiSecur/First_agent_template)  
+
+<img width="1517" height="842" alt="image" src="https://github.com/user-attachments/assets/39088c6b-01f6-456d-82ab-9b1faa5d130f" />  
 
 
 **Core Capabilities:**
@@ -126,7 +125,7 @@ A Template from Hugging Face Agent Course
 **Example Use Cases:**
 ```python
 "What time is 3pm EST in Tokyo?"
-"Show weather in São Paulo"
+"Show weather in New York"
 "Convert 50 miles to kilometers"
 "Generate image of secure server room"
 ```
@@ -144,6 +143,9 @@ A Template from Hugging Face Agent Course
 
 A Python-based tool for automated image and video analysis using advanced object detection.  
 Designed for security professionals to enhance incident investigation, forensic analysis, and threat detection workflows.  
+
+![Image01](https://github.com/ThiagoMaria-SecurityIT/AI-showcase/blob/main/security-image-analyzer/ttkimage1.png)  
+
 > [!IMPORTANT]     
 > You need a pre-trained model in the same folder of the project to run this code.
 
