@@ -52,7 +52,6 @@ Updated: 31/08/2025
 > - Real-time Object detection
 > - Animals and person detection
 > - Behavioral pattern analysis
-> - Multi-camera threat correlation
 
 
 *Note: Try beta version online [here](https://huggingface.co/spaces/ThiSecur/Image-and-Video-detector)*
